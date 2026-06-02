@@ -1,4 +1,5 @@
 # 📰 AI Fake News Detector
+AI-powered fake news detection using NLP, TF-IDF, and Machine Learning with explainable confidence scoring.
 
 An AI-powered Fake News Detection web application built using Machine Learning and Natural Language Processing (NLP). The system analyzes news headlines and articles to predict whether content is likely real or fake using confidence scoring and explainable AI insights.
 
