@@ -1,10 +1,10 @@
-# 📰 AI Fake News Detector
+# AI Fake News Detector
 AI-powered fake news detection using NLP, TF-IDF, and Machine Learning with explainable confidence scoring.
 
 An AI-powered Fake News Detection web application built using Machine Learning and Natural Language Processing (NLP). The system analyzes news headlines and articles to predict whether content is likely real or fake using confidence scoring and explainable AI insights.
 
 
-## 📸 Project Demo
+## Project Demo
 
 ### Home Interface
 
@@ -14,7 +14,7 @@ An AI-powered Fake News Detection web application built using Machine Learning a
 
 ![Prediction Result](assets/prediction.png)
 
-## ✨ Features
+## Features
 
 * AI-powered fake news detection using Machine Learning
 * TF-IDF based text vectorization
@@ -25,7 +25,7 @@ An AI-powered Fake News Detection web application built using Machine Learning a
 * Edge-case handling for uncertain inputs
 * Interactive Streamlit dashboard
 
-## ⚙️ How It Works
+## How It Works
 
 1. News headline/article text is entered by the user.
 2. Text preprocessing and cleaning are applied.
@@ -34,7 +34,7 @@ An AI-powered Fake News Detection web application built using Machine Learning a
 5. Confidence scores and explainable insights are displayed to the user.
 
 
-## 🚀 Key Highlights
+## Key Highlights
 
 * Built an end-to-end NLP-based fake news detection system using TF-IDF and Machine Learning.
 * Implemented explainable AI confidence scoring for transparent predictions.
@@ -42,7 +42,7 @@ An AI-powered Fake News Detection web application built using Machine Learning a
 * Improved model reliability using additional curated fake and real news datasets.
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - Streamlit
@@ -60,7 +60,7 @@ An AI-powered Fake News Detection web application built using Machine Learning a
 - Pandas
 - NumPy
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 fake-news-detection/
@@ -94,7 +94,7 @@ fake-news-detection/
 ```
 
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
@@ -115,7 +115,7 @@ Run the application:
 streamlit run app/app.py
 ```
 
-## 🧪 Example Predictions
+## Example Predictions
 
 | Headline | Prediction |
 |----------|------------|
@@ -123,14 +123,14 @@ streamlit run app/app.py
 | Aliens secretly control governments | Fake News |
 
 
-## 🎯 Future Improvements
+## Future Improvements
 
 - Live News API integration
 - Multi-language fake news detection
 - Deep Learning model enhancement
 - Real-time fact verification
 
-## 👨‍💻 Author
+## Author
 
 **Rithwik Nalla**
 
